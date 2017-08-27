@@ -20,6 +20,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 14. [Cost of Poor Culture, Bad Org Health](https://github.com/pinpt/handbook/blob/master/5-resources.md#cost-of-poor-culture-bad-org-health)
 15. [Services, Providers](https://github.com/pinpt/handbook/blob/master/5-resources.md#services-and-providers)
 
+
 ## General HR, PeopleOps
 
 - [Getting Human Resources Right](http://avc.com/2017/02/getting-human-resources-right/)
@@ -39,9 +40,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Organizational Design in Startups](http://tomtunguz.com/organizational-design/)
 - [Gusto: Employee Handbook](https://gusto.com/framework/crash-course-guides/the-ultimate-employee-handbook/) - PDF Download [here](https://www.dropbox.com/s/s3ri0gfzl3yyuy6/Gusto_How_to_Create_an_Employee_Handbook_final.pdf?dl=0).
 - [A Quick Guide to Stripe's Culture](https://stripe.com/us/jobs/candidate-info)
-
-
-
 
 
 ## Hiring
@@ -90,12 +88,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Onboarding Best Practices: How the Smartest Companies Turn New Hires Into Great Employees](https://foundrmag.com/onboarding-best-practices/)
 - [How we dramatically improved 18F’s onboarding process in 3 months](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
 - [How Employee Onboarding can increase Productivity and decrease Turnover to create Profits](https://medium.com/evergreen-business-weekly/why-employee-onboarding-is-holding-back-your-team-and-how-to-get-it-right-3ec5b3b36f6e)
--
-
-
-
-
-
 
 
 ## Growing Culture
@@ -119,6 +111,8 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Culture Eats Strategy for Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
 - [Company culture tips from Netflix, Zappos, Atlassian](https://venturebeat.com/2016/01/17/company-culture-tips-from-netflix-zappos-atlassian/)
 - [Making Culture a Tangible Metric](http://blog.ycombinator.com/making-culture-a-tangible-metric/)
+- [The A to Z Guide to Culture Decks] (http://futureofwork.nobl.io/future-of-work/the-a-to-z-guide-to-team-handbooks)
+- [6 Things to Do When Your Team Grows to 60 People] (http://futureofwork.nobl.io/future-of-work//6-things-to-do-when-your-team-grows-to-60-people)
 
 
 
@@ -131,10 +125,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [The best developer conference? Your own.](https://engineering.klarna.com/the-best-developer-conference-your-own-ef68f2831b67)
 - [Rate of Learning](https://john.do/rol/)
 - [How to Give Feedback to Your Boss](https://blog.knowyourcompany.com/how-to-give-feedback-to-your-boss-f0871117c835)
-
-
-
-
 
 
 ## Leadership and Management
@@ -164,8 +154,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Buzzfeed's Leadership Principles](https://github.com/buzzfeed/design/blob/master/tech-leadership-principles.md)
 
 
-
-
 ## Mentorship and Coaching
 
 - [The Mentor Manifesto](http://davidgcohen.com/2011/08/28/the-mentor-manifesto/) - [Brad Feld's Breakdown](http://feld.com/archives/2014/07/deconstructing-mentor-manifesto.html) here as well.
@@ -186,6 +174,7 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [How to Handle Conflict on Remote Teams](https://www.helpscout.net/blog/remote-team-conflict/)
 - [How to Determine if Candidates Will Thrive in a Remote Work Environment](https://hackernoon.com/how-to-determine-if-candidates-will-thrive-in-a-remote-work-environment-d538d1e8f831)
 
+
 ## Team Dynamics
 
 - [Great Teams Are About Personalities, Not Just Skills](https://hbr.org/2017/01/great-teams-are-about-personalities-not-just-skills)
@@ -198,9 +187,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 ## Productivity
 
 - [7 Habits of Tech-Savvy Teams](https://themission.co/the-seven-habits-of-tech-savvy-teams-aa89f5f75635)
-
-
-
 
 
 ## Diversity, Inclusion, Family, Gender
@@ -223,8 +209,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [Diversity and Inclusion @ Helpscout - What Gets Measured](https://www.helpscout.net/blog/diversity-inclusion/)
 
 
-
-
 ## Health
 
 - [Open Sourcing Mental Illness](https://osmihelp.org/about/about-osmi)
@@ -241,10 +225,6 @@ The following are PeopleOps and HR-related resources that we like. Feel free to 
 - [HumanOps](http://www.humanops.com/)
 - [Engineering a Culture of Psychological Safety](https://blog.intercom.com/psychological-safety/)
 - [Google HR boss explains the only 2 ways to keep your best people from quitting](http://www.businessinsider.com/google-laszlo-bock-how-to-retain-employees-2015-4)
--
-
-
-
 
 
 ## Internship Programs
@@ -268,6 +248,7 @@ The following is a list of technology, consulting, and product / service compani
 ## General Employee Management, Engagement
 
 - [Know Your Company](https://knowyourcompany.com/)
+- [NOBL] (https://nobl.io/offerings/) - Organizational Design Consulting & Embedded Coaching
 - [Start with Lucy](https://startwithlucy.com/) - Prenatal and Postpartum Support
 - [ParadigmIQ](http://www.paradigmiq.com/) - Assessing Diversity and Inclusion
 - [Handshake](https://www.joinhandshake.com/) - Internship Marketplace
@@ -304,7 +285,6 @@ The following is a list of technology, consulting, and product / service compani
 - [Populate.io](https://populate.io/home)
 
 
-
 ## Applicant Tracking Systems (ATS)
 
 - [GoHire](http://gohire.io/)
@@ -335,6 +315,7 @@ The following is a list of technology, consulting, and product / service compani
 - [Homerun](https://www.homerun.co/)
 - [Recruitee](https://recruitee.com/)
 
+
 ## Payroll, Benefits
 
 - [Gusto](https://gusto.com/r/ncX42/)
@@ -347,8 +328,9 @@ The following is a list of technology, consulting, and product / service compani
 - [CakeHR](https://cake.hr/)
 - [SilkRoad](https://www.silkroad.com/)
 
+
 ## Misc...
 
 - [Hivy](https://hivyapp.com/) - Office Management Platform
 - [HRStash](http://hrstash.co/) - Curated List of Resources
-
+- [Future of Work] (http://futureofwork.nobl.io/) - Library of New ways of Working
